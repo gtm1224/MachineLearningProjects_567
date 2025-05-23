@@ -1,0 +1,9 @@
+Lib/
+Lib/site-packages/torch/lib/torch_cpu.dll
+Lib/site-packages/torch/lib/dnnl.lib
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.venv
+*.log
